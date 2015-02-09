@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/splashscreen_worxtasks_bg" />
+
+  
+
+    <LinearLayout
+        android:id="@+id/ftu_bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="49dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical" >
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="@color/divider_color" 
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
+
+        <Button
+            android:id="@+id/ftuStartButton"
+            style="@style/HelveticaNeue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/transparent"
+            android:text="@string/start_txt"
+            android:textColor="@drawable/button_text_bg"
+            android:textSize="@dimen/text_moderate2" />
+    </LinearLayout>
+    
+      <FrameLayout
+        android:id="@+id/ftu_content_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/ftu_bottom_layout"
+        android:visibility="visible" >
+    </FrameLayout>
+
+</RelativeLayout>

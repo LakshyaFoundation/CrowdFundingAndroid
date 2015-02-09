@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_color">#9d53dc</color>
+    <color name="app_grey_background">#eeeeee</color>
+    <color name="list_item_click">#e5e5e5</color>
+    <color name="text_delete_red">#ec5026</color>
+    
+    
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_transparent">#22000000</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="black">#000000</color>
+    
+    
+    <color name="text_notebook_grey">#1a1a1a</color>
+    <color name="text_actionbar_grey">#cccccc</color>  
+    <color name="text_grey_dark">#333333</color>
+    <color name="text_grey">#666666</color>
+    <color name="text_grey_light">#999999</color>
+    
+    <color name="text_grey_completed">#979797</color>
+    <color name="text_grey_empty_header">#808080</color>
+    <color name="text_grey_empty_msg">#a6a6a6</color>
+    
+    
+    <color name="divider_color">#eeeeee</color>
+    <color name="divider_color_settings">#cccccc</color>
+    <color name="divider_color2">#cccccc</color>
+    
+    
+    <color name="tag_selected">#d9d9d9</color>
+    
+    <!-- Search -->
+    <color name="disabled_items_color">#cccccc</color>
+    
+    <!-- Alert -->
+    <color name="alert_title_bg">#dfdfdf</color>
+    <color name="delete_dialog_grey_txt">#4d4d4d</color>
+	<color name="selector_blue">#82cfec</color>
+    
+    
+    <!-- Calender -->
+    <color name="month_other_bgcolor">#FFEEEEEE</color>
+    <color name="month_selected_week_bgcolor">#FFDDDDDD</color>
+    <color name="month_bgcolor">#FFDDDDDD</color>
+    <color name="month_grid_lines">#ffffffff</color>
+    <color name="mini_month_today_outline_color">#FF000000</color>
+    <color name="month_week_num_color">#FF999999</color>
+    
+    <color name="month_saturday">#80333333</color>
+    <color name="month_sunday">#80333333</color>
+    <color name="month_day_names_color">#FF333333</color>
+        
+    <color name="month_mini_day_number">#FF323232</color>
+    <color name="month_other_month_day_number">#ff939497</color>
+    <color name="calendar_grid_line_inner_vertical_color">#FFffffff</color>
+    
+    <color name="today_highlight_color">#0033b5e5</color>
+    <color name="month_day_number">#FF666666</color>
+    <color name="month_day_number_other">#FFCCCCCC</color>
+    <color name="month_day_number_selected">#FF9D53DC</color>
+    <color name="month_today_number">#FFFFFFFF</color>
+    <color name="month_event_color">#FF333333</color>
+    <color name="month_inactive_event_color">#FF999999</color>
+        <color name="month_today_bgcolor">#FF0080FF</color>
+    
+        <color name="month_event_extra_color">#FF666666</color>
+    <color name="month_event_other_color">#FF666666</color>
+        <color name="month_event_extra_other_color">#4C999999</color>
+        <!-- Text color of declined events in agenda view -->
+    <color name="agenda_item_declined_color">#66333333</color>
+        <!-- Color of the event location's text in an agenda item  -->
+    <color name="agenda_item_where_declined_text_color">#66666666</color>
+        <color name="month_dna_conflict_time_color">#FF333333</color>
+        
+            <color name="actionable_text_disabled_color">#cccccc</color>
+    <color name="actionable_text_enabled_color">#9d53dc</color>
+    <color name="actionable_text_press_color">#cda8ed</color>
+        <color name="text_secondary_color_inverse">#eeeeee</color>
+
+
+</resources>

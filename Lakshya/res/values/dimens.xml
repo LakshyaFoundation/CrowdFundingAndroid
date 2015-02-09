@@ -1,0 +1,64 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="view_horizontal_margin">10dp</dimen>
+    
+        <!-- dashboard -->
+    <dimen name="footer_right_spacing">11dp</dimen>
+    <dimen name="footer_height">44dp</dimen>
+    
+    <dimen name="chip_padding">8dip</dimen>
+    <dimen name="chip_height">30dip</dimen>
+    <dimen name="chip_text_size">15sp</dimen>
+    <dimen name="line_spacing_extra">4dip</dimen>
+    <dimen name="audio_chip_height">40dip</dimen>
+    <dimen name="delete_chip_height">16dip</dimen>
+    <dimen name="tag_chip_padding_uselected">12dp</dimen>
+    <dimen name="tag_chip_padding_selected">9dp</dimen>
+    <dimen name="tag_chip_outer_padding_selected">5dp</dimen>
+    <dimen name="rte_size">42dp</dimen>
+    <dimen name="rte_size_padding">23dp</dimen>
+    
+        <!-- TextSize -->
+    <dimen name="text_big">21sp</dimen>
+    <dimen name="text_big2">26sp</dimen>
+    <dimen name="text_moderate5">19sp</dimen>
+    <dimen name="text_moderate4">18sp</dimen>
+    <dimen name="text_moderate3">17sp</dimen>
+  	<dimen name="text_moderate2">16sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="text_13sp">13sp</dimen>
+    <dimen name="text_20sp">20sp</dimen>
+    <dimen name="text_15sp">15sp</dimen>
+    <dimen name="text_12sp">15sp</dimen>
+    
+    <!-- Activity Animation -->
+    <integer name="anim_time">30</integer>
+    <integer name="anim_time_activity">200</integer>
+    <integer name="ime_action_id_add">100</integer>
+    
+    
+    <!-- the "show details" mode is recommended for devices with large screens -->
+    <bool name="show_details_in_month">false</bool>
+    
+    <!-- Calender -->
+    <dimen name="day_label_text_size">12sp</dimen>
+        <!-- size of day date font in month view  -->
+    <integer name="text_size_month_number">18</integer>
+        <!-- margin between the day number and the edge of the day in month view -->
+    <integer name="month_day_number_margin">0</integer>
+        <!-- Calendar Month View Dimensions -->
+    <dimen name="month_view_day_height">18dip</dimen>
+        <!-- not supported for X-large devices -->
+    <bool name="show_agenda_with_month">true</bool>
+    
+        <dimen name="quick_contact_width">40dp</dimen>
+    <dimen name="quick_contact_height">40dp</dimen>
+    <dimen name="initials_textSize">16dp</dimen>
+    
+
+</resources>
+

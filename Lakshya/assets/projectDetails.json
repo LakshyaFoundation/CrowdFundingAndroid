@@ -1,0 +1,23 @@
+[     
+   {  
+         "description":"Sample description lorem ipsum lorem ipsum lorem ipsum",
+         "video_url":"https://www.youtube.com/watch?v=fzqh6_90akI",
+         "percentage_pledged":15.542307692307691,
+         "pledged_amount":4041,
+         "author_name":"",
+         "id":18,
+         "image_urls":[  
+            "http://crowdfund.thelakshyafoundation.org/media/images/innovation-2.jpg",
+            "http://crowdfund.thelakshyafoundation.org/media/images/innovation-3.jpg",
+            "http://crowdfund.thelakshyafoundation.org/media/images/innovation-1.jpg"
+         ],
+         "totalBackers":1,
+         "goal":26000,
+         "title":"Test Project 1",
+         "summary":"Test project summary test project summary 1",
+         "primary_picture_url":"/media/images/innovation-2.jpg",
+         "days_remaining":22,
+         "team":"",
+         "risks_and_challenges":""
+      }
+]

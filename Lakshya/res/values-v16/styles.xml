@@ -1,0 +1,11 @@
+<resources>
+
+         <style name="HelveticaNeue">
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    
+     <style name="HelveticaNeueLigth">
+         <item name="android:fontFamily">sans-serif</item>
+    </style>
+    
+</resources>
